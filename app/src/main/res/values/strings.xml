@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SolarCloud Widget</string>
+    <string name="accessibility_description">Reads the visible SolarCloud monitoring values and updates the home-screen widget.</string>
+</resources>
